@@ -5,4 +5,4 @@
   "scripts": {
     "build": "next build"
   }
-}
+}Save with Encoding → UTF-8 (NOT UTF-8 with BOM)
